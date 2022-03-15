@@ -11,4 +11,10 @@ public class ContactTest {
 		System.out.println("contact  created");
 	}
 
+	
+	@Test
+	public void createContactTest1()
+	{
+		System.out.println("contacted");
+	}
 }
